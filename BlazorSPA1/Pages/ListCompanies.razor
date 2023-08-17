@@ -1,0 +1,45 @@
+﻿@page "/listcompanies"
+@inject ICompanyService CompanyService
+
+<h2>Company Details</h2>
+<p>
+    <a href="/addcompany">Create New Company</a>
+</p>
+@if (companies== null)
+{
+    <p>Loading page...</p>
+}
+else
+{
+    <table class='table'>
+        <thead>
+            <tr>
+                <th>Name</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var company in companies)
+            {
+                <tr>
+                    <td>@company.Name</td>
+                    
+                    <td>
+                        <a href='/editcompany/@company.Id'>Edit</a>
+                        <a href='/deletecompany/@company.Id'>Delete</a>
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    List<Company> companies;
+
+    protected override async Task OnInitializedAsync()
+    {
+        companies = await CompanyService.GetCompanies();
+    }
+}   
