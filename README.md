@@ -12,7 +12,7 @@ lifestyle en Tunisie
  
  
  
-![Capture d’écran 2023-08-18 205848](https://github.com/Aym2016/JetSetMagazine-SpringBoot-Flutter/assets/42209140/0dd53a73-3d68-47bd-83ad-1f11e0d22ec6)
+
 
 
 ![Capture d’écran 2023-08-18 211226](https://github.com/Aym2016/JetSetMagazine-SpringBoot-Flutter/assets/42209140/91c252e5-2752-4371-aee3-0f9fdef5dc2a)
