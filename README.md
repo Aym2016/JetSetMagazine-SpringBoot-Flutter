@@ -1,7 +1,3 @@
-![Capture d’écran 2023-08-18 205848](https://github.com/Aym2016/JetSetMagazine-SpringBoot-Flutter/assets/42209140/72ff9a79-7b50-4ce7-b703-ba51f7de4ec5)
-![Capture d’écran 2023-08-18 211114](https://github.com/Aym2016/JetSetMagazine-SpringBoot-Flutter/assets/42209140/88f32768-050a-4336-99c2-09c41be0329c)
-![Capture d’écran 2023-08-18 205927](https://github.com/Aym2016/JetSetMagazine-SpringBoot-Flutter/assets/42209140/4474cc2d-f8ee-4a05-9c8e-878ef4d7b07d)
-![Capture d’écran 2023-08-18 205848](https://github.com/Aym2016/JetSetMagazine-SpringBoot-Flutter/assets/42209140/30552ea8-3c1f-4d0c-a0ea-1b43a38ba8f1)
 # JetSetMagazine-SpringBoot-Flutter
 ce projet est réalisé  au niveau Projet PPE   4éme année    au niveau cycle d'ingénieur 
 
@@ -12,6 +8,7 @@ Que vous soyez à la recherche d'une ambiance festive, d'une escapade romantique
 une sélection variée et de qualité. Jetsetmagazine.net est le site web incontournable pour tous les amateurs de la vie nocturne, de la mode, de la beauté, et du
 lifestyle en Tunisie
  
+
  
  
  
@@ -37,7 +34,7 @@ lifestyle en Tunisie
 
 
 ![interface2](https://github.com/Aym2016/JetSetMagazine-SpringBoot-Flutter/assets/42209140/081ed348-9980-4ff1-b566-268009931a90)![interface3]![interface4](https://github.com/Aym2016/JetSetMagazine-SpringBoot-Flutter/assets/42209140/6d2a3557-1c49-45f2-bdbd-7c4645265595)
-(https://github.com/Aym2016/JetSetMagazine-SpringBoot-Flutter/assets/42209140/e22ab9a6-694a-44b8-becc-69f88679db38)
+
 
 
 
